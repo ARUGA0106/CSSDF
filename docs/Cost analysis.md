@@ -1,6 +1,6 @@
 ## Cost Analysis in Implementing Security Objectives within SSDLC
 
-Integrating security objectives into each phase of the SDLC incurs various costs, including time, resources, business impact, and financial burden. Here's an indepth look at these considerations and effective approaches to balancing costs in each SDLC phase:
+Integrating security objectives into each phase of the SDLC incurs various costs, including time, resources, business impact, and financial burden. Here's an indepth look at these considerations and cost-effective approaches.
 
 
 ### 1.	Requirements Gathering
@@ -60,7 +60,7 @@ Integrating security objectives into each phase of the SDLC incurs various costs
   ** Cost-effective Approach:**
 •	Automate vulnerability scanning where possible, reserving manual penetration testing for critical components.
 
-•	Benchmark security standards (e.g., OWASP ASVS, WSTG, OSAF-Model) as checklists, guiding the team to focus on the most impactful vulnerabilities, thereby minimizing test cycles and cost.
+•	Benchmark security standards (e.g., OWASP ASVS, WSTG, C-Model) as checklists, guiding the team to focus on the most impactful vulnerabilities, thereby minimizing test cycles and cost.
  
  ### 5. Deployment and Maintenance Phase
 •	Time: Routine maintenance, patch management, and monitoring demand continuous attention, especially as new threats emerge.

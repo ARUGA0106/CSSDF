@@ -1,6 +1,6 @@
 
 
-# Security Enhanced SDLC (SSDLC) Methodology: OSAF-Model-
+# Security Enhanced SDLC (SSDLC) Methodology: C-Model
 ## requirement gathering phase
 
 In building a secure software development lifecycle (SSDLC), incorporating established security frameworks and standards is essential. This methodology examines each SDLC phase from a security implementation perspective, leveraging the strengths of the WSTG (Web Security Testing Guide), OWASP Top 10, and SANS/CWE Top 25 to form a comprehensive approach. This fusion allows for a robust checklist and practical guidance to systematically address security risks.
@@ -24,4 +24,4 @@ SANS 25: CWE Top 25
 
 
 
-The **OSAF-Model: Security Enhanced SDLC** is an adaptable methodology that integrates industry-recognized security standards (WSTG, OWASP Top 10, SANS/CWE Top 25) into each phase of the software development lifecycle. Designed to promote a secure-by-design approach, this framework enables developers and architects to systematically identify, prioritize, and address security risks, with clear objectives and practical tools & techniques. This model serves as a core component of Cybershield's Open Software Alliance Foundation (OSAF) project.
+The **C-Model: Security Enhanced SDLC** is an adaptable methodology that integrates industry-recognized security standards (WSTG, OWASP Top 10, SANS/CWE Top 25) into each phase of the software development lifecycle. Designed to promote a secure-by-design approach, this framework enables developers and architects to systematically identify, prioritize, and address security risks, with clear objectives and practical tools & techniques. This model serves as a core component of the C-Model security framework.
